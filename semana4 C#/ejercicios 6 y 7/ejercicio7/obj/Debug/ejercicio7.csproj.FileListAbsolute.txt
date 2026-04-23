@@ -1,0 +1,7 @@
+C:\Users\elpaiba\Documents\trabajos de github\trabajo grupo9\ejercicios\ejercicio7\bin\Debug\ejercicio7.exe.config
+C:\Users\elpaiba\Documents\trabajos de github\trabajo grupo9\ejercicios\ejercicio7\bin\Debug\ejercicio7.exe
+C:\Users\elpaiba\Documents\trabajos de github\trabajo grupo9\ejercicios\ejercicio7\bin\Debug\ejercicio7.pdb
+C:\Users\elpaiba\Documents\trabajos de github\trabajo grupo9\ejercicios\ejercicio7\obj\Debug\ejercicio7.csproj.AssemblyReference.cache
+C:\Users\elpaiba\Documents\trabajos de github\trabajo grupo9\ejercicios\ejercicio7\obj\Debug\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\elpaiba\Documents\trabajos de github\trabajo grupo9\ejercicios\ejercicio7\obj\Debug\ejercicio7.exe
+C:\Users\elpaiba\Documents\trabajos de github\trabajo grupo9\ejercicios\ejercicio7\obj\Debug\ejercicio7.pdb

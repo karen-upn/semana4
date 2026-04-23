@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elpaiba\\Documents\\trabajos de github\\trabajo grupo9\\ejercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1BD91E-1EE6-4925-8170-92B63D8FEB7B}|ejercicio7\\ejercicio7.csproj|c:\\users\\elpaiba\\documents\\trabajos de github\\trabajo grupo9\\ejercicios\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1BD91E-1EE6-4925-8170-92B63D8FEB7B}|ejercicio7\\ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78435E68-3431-49E5-82C8-308ABFEC052C}|ejercicio6\\ejercicio6.csproj|c:\\users\\elpaiba\\documents\\trabajos de github\\trabajo grupo9\\ejercicios\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78435E68-3431-49E5-82C8-308ABFEC052C}|ejercicio6\\ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elpaiba\\Documents\\trabajos de github\\trabajo grupo9\\ejercicios\\ejercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\elpaiba\\Documents\\trabajos de github\\trabajo grupo9\\ejercicios\\ejercicio7\\Program.cs",
+              "RelativeToolTip": "ejercicio7\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:26:28.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elpaiba\\Documents\\trabajos de github\\trabajo grupo9\\ejercicios\\ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\elpaiba\\Documents\\trabajos de github\\trabajo grupo9\\ejercicios\\ejercicio6\\Program.cs",
+              "RelativeToolTip": "ejercicio6\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:20:11.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
