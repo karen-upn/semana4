@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace semana4
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Ingrese el peso en kg: ");
+            double peso = double.Parse(Console.ReadLine());
+
+            Console.Write("Ingrese la estatura en metros: ");
+            double estatura = double.Parse(Console.ReadLine());
+
+            // Calcular el IMC usando la función de potencia
+            double imc = peso / Math.Pow(estatura, 2);
+
+            // Redondear a 2 decimales para mostrar
+            double imcRed = Math.Round(imc, 2);
+
+            Console.WriteLine($"IMC: {imcRed}");
+
+            // Clasificación por rangos (condicional múltiple)
+            if (imc < 18.5)
+            {
+                Console.WriteLine("Bajo peso (Azul)");
+            }
+            else if (imc < 25)
+            {
+                Console.WriteLine("Normal (Verde)");
+            }
+            else if (imc < 30)
+            {
+                Console.WriteLine("Sobrepeso (Amarillo)");
+            }
+            else
+            {
+                Console.WriteLine("Obesidad (Rojo)");
+            }
+        }
+    }
+}
